@@ -21,7 +21,7 @@
 
 ```ts
 const axel = {
-  ubicación : "Diamante, Entre Ríos 🇦🇷",
+  ubicación : "Entre Ríos - Argentina",
   universidad: "Analista en Sistemas — FCyT UADER (3er año)",
   modo       : "estudiante + indie builder a la vez",
   foco       : ["SaaS B2B", "IA aplicada", "productos reales"],
@@ -42,7 +42,7 @@ const axel = {
 <td width="50%">
 
 ### 🏋️ GymOS
-**SaaS B2B de gestión para gimnasios barriales**
+**SaaS B2B de gestión para gimnasios**
 
 - Stack: `Next.js 14` · `Supabase` · `PostgreSQL`
 - IA: rutinas generadas con `Gemini Flash`
