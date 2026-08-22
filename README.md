@@ -142,9 +142,13 @@ para clientes locales.
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Axelirribarren&show_icons=true&hide_border=true&title_color=E8731A&icon_color=D4A017&text_color=C9A96E&bg_color=0D0906&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+<!-- NOTA: la instancia oficial github-readme-stats.vercel.app está pausada (503).
+     Estas dos tarjetas usan un espejo público del mismo proyecto.
+     Para depender solo de vos: forkeá github.com/anuraghazra/github-readme-stats,
+     deployalo en tu Vercel y reemplazá el host en estas 2 URLs. -->
+<img height="165px" src="https://github-readme-stats-one-gules.vercel.app/api?username=Axelirribarren&show_icons=true&hide_border=true&title_color=E8731A&icon_color=D4A017&text_color=C9A96E&bg_color=0D0906&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
 &nbsp;&nbsp;
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelirribarren&layout=compact&hide_border=true&title_color=E8731A&text_color=C9A96E&bg_color=0D0906&langs_count=8" alt="Lenguajes más usados" />
+<img height="165px" src="https://github-readme-stats-one-gules.vercel.app/api/top-langs/?username=Axelirribarren&layout=compact&hide_border=true&title_color=E8731A&text_color=C9A96E&bg_color=0D0906&langs_count=8" alt="Lenguajes más usados" />
 
 <br/><br/>
 
