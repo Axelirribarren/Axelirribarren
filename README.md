@@ -63,10 +63,28 @@ Plataforma de estudio instalable y offline para Química de secundaria: clases, 
 
 ## Herramientas que uso
 
-**Producto y frontend** — Next.js, React, TypeScript, Tailwind CSS, Vite, PWA<br/>
-**Backend y datos** — Python, FastAPI, Node.js, Supabase, PostgreSQL, SQLite<br/>
-**IA aplicada** — Gemini, LangChain, RAG, embeddings, ChromaDB<br/>
-**Entrega** — Git, Docker, Vercel, Linux
+<p align="center">
+  <sub><b>PRODUCTO & FRONTEND</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/TypeScript-17181D?style=flat-square&amp;logo=typescript&amp;logoColor=D6A84B" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-17181D?style=flat-square&amp;logo=react&amp;logoColor=D6A84B" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-17181D?style=flat-square&amp;logo=nextdotjs&amp;logoColor=D6A84B" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-17181D?style=flat-square&amp;logo=tailwindcss&amp;logoColor=D6A84B" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-17181D?style=flat-square&amp;logo=vite&amp;logoColor=D6A84B" alt="Vite" />
+  <br/><br/>
+  <sub><b>BACKEND & DATOS</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Python-17181D?style=flat-square&amp;logo=python&amp;logoColor=D6A84B" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-17181D?style=flat-square&amp;logo=fastapi&amp;logoColor=D6A84B" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-17181D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=D6A84B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-17181D?style=flat-square&amp;logo=supabase&amp;logoColor=D6A84B" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-17181D?style=flat-square&amp;logo=postgresql&amp;logoColor=D6A84B" alt="PostgreSQL" />
+  <br/><br/>
+  <sub><b>IA & ENTREGA</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Gemini-17181D?style=flat-square&amp;logo=googlegemini&amp;logoColor=D6A84B" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-17181D?style=flat-square&amp;logo=langchain&amp;logoColor=D6A84B" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Git-17181D?style=flat-square&amp;logo=git&amp;logoColor=D6A84B" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-17181D?style=flat-square&amp;logo=docker&amp;logoColor=D6A84B" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-17181D?style=flat-square&amp;logo=vercel&amp;logoColor=D6A84B" alt="Vercel" />
+</p>
 
 ---
 
